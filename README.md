@@ -1,5 +1,13 @@
 # Syden Compliance Engine
 
+> 🧩 **TL;DR**
+> - Set up demo in ~5 minutes.
+> - Adds encrypted fields, GDPR-style soft delete and audit logging to your Django project.
+> - Aimed at freelancers / small teams who don’t want to spend 1–3 days wiring this from scratch.
+🎥 Real-time install demo (5 minutes): https://youtu.be/tiMLjWpDXFk
+🎥 Overview & delete/anonymise actions: https://youtu.be/RFBO2XDXJNI
+
+
 > Data protection & audit engine for Django
 
 Syden Compliance Engine is a ready-to-use **data protection & audit engine for Django projects**.
