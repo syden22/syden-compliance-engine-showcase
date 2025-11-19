@@ -187,3 +187,11 @@ claim authorship of the original engine.
 For extended or custom licensing (agency / client work / enterprise), contact:
 
 support@syden.systems
+## 🚀 Support us on Product Hunt
+
+If you like this project, please support the launch on Product Hunt:
+
+👉 https://www.producthunt.com/products/syden-compliance-engine
+
+Your support helps the project grow 💙
+
