@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://www.producthunt.com/products/syden-compliance-engine?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-syden-compliance-engine" target="_blank">
+    <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1039768&theme=dark&t=1763526545336"
+         alt="Syden Compliance Engine on Product Hunt"
+         width="250"
+         height="54" />
+  </a>
+</p>
+
 # Syden Compliance Engine
 
 > 🧩 **TL;DR**
